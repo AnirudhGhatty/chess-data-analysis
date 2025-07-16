@@ -48,8 +48,8 @@ Analyzed using Python, Pandas, Matplotlib, and Seaborn.
 
 
 ![Game Length Plot](https://github.com/AnirudhGhatty/chess-data-analysis/blob/main/Screenshot%202025-07-16%20163553.png)
-![Game Length Plot](https://github.com/AnirudhGhatty/chess-data-analysis/blob/main/Screenshot%202025-07-16%20163553.png)
-![Game Length Plot](https://github.com/AnirudhGhatty/chess-data-analysis/blob/main/Screenshot%202025-07-16%20163553.png)
+![White vs Black player ratings](https://github.com/AnirudhGhatty/chess-data-analysis/blob/main/Screenshot%202025-07-16%20164427.png)
+![Maximum ratings , white vs black](https://github.com/AnirudhGhatty/chess-data-analysis/blob/main/Screenshot%202025-07-16%20164822.png)
 
 
 ---
