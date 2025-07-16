@@ -47,6 +47,7 @@ Analyzed using Python, Pandas, Matplotlib, and Seaborn.
 - Bar chart comparing maximum ratings
 
 
+![Game Length Plot](https://github.com/yourusername/yourrepo/blob/main/filename.png)
 
 ---
 
