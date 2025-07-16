@@ -47,7 +47,10 @@ Analyzed using Python, Pandas, Matplotlib, and Seaborn.
 - Bar chart comparing maximum ratings
 
 
-![Game Length Plot](https://github.com/yourusername/yourrepo/blob/main/filename.png)
+![Game Length Plot](https://github.com/AnirudhGhatty/chess-data-analysis/blob/main/Screenshot%202025-07-16%20163553.png)
+![Game Length Plot](https://github.com/AnirudhGhatty/chess-data-analysis/blob/main/Screenshot%202025-07-16%20163553.png)
+![Game Length Plot](https://github.com/AnirudhGhatty/chess-data-analysis/blob/main/Screenshot%202025-07-16%20163553.png)
+
 
 ---
 
