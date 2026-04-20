@@ -54,7 +54,7 @@ To identify key factors that influence the outcome of chess games using data ana
     Among the most frequently played openings, win rates vary noticeably, suggesting that opening choice impacts performance. It is noticed that openings like the scandinavian defense , scotch game give a higher win rate for the players
 
    **Game Length vs Outcome:**
-    Shorter games are more likely to result in decisive outcomes, indicating that early mistakes play a major role in determining results.
+    Shorter games are more likely to result in decisive outcomes, indicating that early mistakes play a major role in determining results. It was also noticed that the games played for more than 70 moves will most likely result in a draw
     
 ---
 
