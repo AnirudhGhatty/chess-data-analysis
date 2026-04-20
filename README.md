@@ -68,13 +68,13 @@ To identify key factors that influence the outcome of chess games using data ana
 - Top 10 most played openings with high win rate
 - Game length distribution by game outcome 
 
-![Game Length Plot](https://github.com/AnirudhGhatty/chess-data-analysis/blob/main/Screenshot%202025-07-16%20163553.png)
-![White vs Black player ratings](https://github.com/AnirudhGhatty/chess-data-analysis/blob/main/Screenshot%202025-07-16%20164427.png)
-![Maximum ratings , white vs black](https://github.com/AnirudhGhatty/chess-data-analysis/blob/main/Screenshot%202025-07-16%20164822.png)
+![Game Length Plot](https://github.com/AnirudhGhatty/chess-data-analysis/raw/main/Screenshot%202025-07-16%20163553.png)
+![White vs Black player ratings](https://github.com/AnirudhGhatty/chess-data-analysis/raw/main/Screenshot%202025-07-16%20164427.png)
+![Maximum ratings , white vs black](https://github.com/AnirudhGhatty/chess-data-analysis/raw/main/Screenshot%202025-07-16%20164822.png)
 ![Win rate comparison (white vs black)](https://github.com/AnirudhGhatty/chess-data-analysis/raw/main/win%20rate%20comparison.png)
 ![Win probability vs rating difference for white](https://github.com/AnirudhGhatty/chess-data-analysis/raw/main/win%20probability%20vs%20rating%20diff.png)
-![Top 10 openings with higher win rates](https://github.com/AnirudhGhatty/chess-data-analysis/blob/main/win%20rate%20of%20openings.png)
-![Game length by game outcome]()
+![Top 10 openings with higher win rates](https://github.com/AnirudhGhatty/chess-data-analysis/raw/main/win%20rate%20of%20openings.png)
+![Game length by game outcome](https://github.com/AnirudhGhatty/chess-data-analysis/raw/main/game%20length%20deciding%20the%20winner.png)
 
 ---
 
