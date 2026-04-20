@@ -71,6 +71,7 @@ To identify key factors that influence the outcome of chess games using data ana
 ![Game Length Plot](https://github.com/AnirudhGhatty/chess-data-analysis/blob/main/Screenshot%202025-07-16%20163553.png)
 ![White vs Black player ratings](https://github.com/AnirudhGhatty/chess-data-analysis/blob/main/Screenshot%202025-07-16%20164427.png)
 ![Maximum ratings , white vs black](https://github.com/AnirudhGhatty/chess-data-analysis/blob/main/Screenshot%202025-07-16%20164822.png)
+![Win rate comparison (white vs black)]()
 
 
 ---
