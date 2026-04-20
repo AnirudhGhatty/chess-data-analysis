@@ -25,7 +25,7 @@ Analyzed using Python, Pandas, Matplotlib, and Seaborn.
 
 ---
 
-🎯 Objective
+## 🎯 Objective
 
 To identify key factors that influence the outcome of chess games using data analysis techniques.
 
